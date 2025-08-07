@@ -2,7 +2,7 @@
   {
     "name": "Sales and Demand Forecasting",
     "desc": "The Sales Forecasting and Demand Prediction project aims to develop a machine learning model that predicts future sales and demand based on historical data.",
-    "image": "Sales Forecasting",
+    "image": "Sales Forecasting.png",
     "category": "Data Science",
     "links": {
       "view": "https://sales-forecasting-application.streamlit.app/",
@@ -12,7 +12,7 @@
   {
     "name": "Noon App Sentiment Analysis",
     "desc": "The Noon App Sentiment Analysis project aims to develop a machine learning model that analyzes the sentiment of the Noon app's reviews.",
-    "image": "Noon",
+    "image": "Noon.png",
     "category": "Data Science",
     "links": {
       "view": "",
@@ -22,7 +22,7 @@
   {
     "name": "Attrition Dashboard",
     "desc": "The Attrition Dashboard project aims to develop a dashboard that analyzes the attrition of the company's employees.",
-    "image": "Dashboard",
+    "image": "Dashboard.png",
     "category": "Data Analytics",
     "links": {
       "view": "",
