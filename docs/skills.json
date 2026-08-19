@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Microsoft Excel",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-excel-2019--v2.png",
+        "category": "Data Analysis"
+    },
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/color/48/000000/power-bi.png",
+        "category": "Data Analysis"
+    },
+    {
+        "name": "Data Cleaning",
+        "icon": "https://img.icons8.com/color/48/000000/database.png",
+        "category": "Data Analysis"
+    },
+    {
+        "name": "EDA",
+        "icon": "https://img.icons8.com/color/48/000000/analytics.png",
+        "category": "Data Analysis"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/000000/pandas.png",
+        "category": "Data Analysis"
+    },
+    {
+        "name": "NumPy",
+        "icon": "https://img.icons8.com/color/48/000000/numpy.png",
+        "category": "Data Analysis"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png",
+        "category": "Programming"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png",
+        "category": "Programming"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/color/48/000000/sql.png",
+        "category": "Programming"
+    },
+    {
+        "name": "Jupyter Notebook",
+        "icon": "https://img.icons8.com/color/48/000000/jupyter.png",
+        "category": "Programming"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png",
+        "category": "Programming"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png",
+        "category": "Programming"
+    },
+    {
+        "name": "Scikit-learn",
+        "icon": "https://img.icons8.com/color/48/000000/scikit-learn.png",
+        "category": "Machine Learning"
+    },
+    {
+        "name": "Supervised Learning",
+        "icon": "https://img.icons8.com/color/48/000000/neural-network.png",
+        "category": "Machine Learning"
+    },
+    {
+        "name": "Unsupervised Learning",
+        "icon": "https://img.icons8.com/color/48/000000/cluster-analysis.png",
+        "category": "Machine Learning"
+    },
+    {
+        "name": "Regression",
+        "icon": "https://img.icons8.com/color/48/000000/trending-up.png",
+        "category": "Machine Learning"
+    },
+    {
+        "name": "Classification",
+        "icon": "https://img.icons8.com/color/48/000000/categorize.png",
+        "category": "Machine Learning"
+    },
+    {
+        "name": "Clustering",
+        "icon": "https://img.icons8.com/color/48/000000/cluster-analysis.png",
+        "category": "Machine Learning"
+    },
+    {
+        "name": "Matplotlib",
+        "icon": "https://img.icons8.com/color/48/000000/matplotlib.png",
+        "category": "Visualization"
+    },
+    {
+        "name": "Seaborn",
+        "icon": "https://img.icons8.com/color/48/000000/seaborn.png",
+        "category": "Visualization"
+    },
+    {
+        "name": "Model Evaluation",
+        "icon": "https://img.icons8.com/color/48/000000/analytics.png",
+        "category": "Visualization"
+    },
+    {
+        "name": "Model Optimization",
+        "icon": "https://img.icons8.com/color/48/000000/optimization.png",
+        "category": "Visualization"
+    },
+    {
+        "name": "Problem Solving",
+        "icon": "https://img.icons8.com/color/48/000000/puzzle.png",
+        "category": "Visualization"
+    },
+    {
+        "name": "Communication",
+        "icon": "https://img.icons8.com/color/48/000000/chat.png",
+        "category": "Visualization"
+    }
+]
